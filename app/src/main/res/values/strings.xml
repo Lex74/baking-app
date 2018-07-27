@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Baking App</string>
+    <string name="title_step_list">Steps</string>
+    <string name="title_step_detail">Step Detail</string>
+
+    <string name="placeholder_image">Designed by Freepik</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="send_to_widget">Send to widget</string>
+    <string name="recipe_selected">Recipe selected for widget</string>
+</resources>
